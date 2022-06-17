@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lancern\'s Blog',
+  name: 'Lancern\'s Space',
   domain: 'lancern.xyz',
   author: 'Lancern',
 
   // open graph metadata (optional)
-  description: 'Lancern\'s Blog Site',
+  description: 'Lancern\'s Home Site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
